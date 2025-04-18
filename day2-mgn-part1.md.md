@@ -122,11 +122,11 @@ markdown_content = """
 
 ## Скриншоты
 
-- ![Launch template изменён](../screenshots/2%20day/7.png)
-- ![Настройки шаблона - Target Subnet](../screenshots/2%20day/8.png)
-- ![Выбор Subnet из выпадающего списка](../screenshots/2%20day/9.png)
-- ![Редактирование шаблона запуска](../screenshots/2%20day/10.png)
-- ![Сохранённый шаблон запуска](../screenshots/2%20day/11.png)
+- ![Launch template изменён](/screenshots/2%20day/7.png)
+- ![Настройки шаблона - Target Subnet](/screenshots/2%20day/8.png)
+- ![Выбор Subnet из выпадающего списка](/screenshots/2%20day/9.png)
+- ![Редактирование шаблона запуска](/screenshots/2%20day/10.png)
+- ![Сохранённый шаблон запуска](/screenshots/2%20day/11.png)
 -------------------
 
 
@@ -142,10 +142,10 @@ Post-Launch Template Overview
 
 - ✅ *Install the Systems Manager agent and allow executing actions on launched servers*
     - Это включает установку AWS SSM Agent и разрешение выполнения post-launch действий.
-    - ![SSM Agent Enabled](/mnt/data/13.png)
+    - ![SSM Agent Enabled](/screenshots/2%20day/13.png)
 
 - ⚠️ При отключении этого параметра **SSM agent не устанавливается**, и никакие действия после запуска не выполняются.
-    - ![SSM Agent Disabled](/mnt/data/12.png)
+    - ![SSM Agent Disabled](/screenshots/2%20day/12.png)
 
 ### Deployment
 
@@ -154,12 +154,12 @@ Post-Launch Template Overview
   - `Cutover instances only`
   - `Test instances only`
 
-  - ![Deployment Options](/mnt/data/14.png)
+  - ![Deployment Options](/screenshots/2%20day/14.png)
 
 ### Encryption
 
 - ⚪ *Encrypt action parameters* — можно включить для шифрования параметров действия.
-    - ![Encryption Options](/mnt/data/15.png)
+    - ![Encryption Options](/screenshots/2%20day/15.png)
 
 ## Вывод
 
@@ -181,14 +181,14 @@ Post-Launch Template Overview
   При включении, AWS установит **SSM Agent** на целевые серверы, чтобы выполнять автоматические действия.  
   📌 Также создаются необходимые IAM роли.
 
-![Post-launch enabled](../screenshots/2%20day/12.png)
+![Post-launch enabled](/screenshots/2%20day/12.png)
 
 ---
 
 ### Deployment
 - ✅ *Test and cutover instances (recommended)* — Рекомендуется активировать для тестов и рабочих инстансов.
 
-![Deployment setting](../screenshots/2%20day/13.png)
+![Deployment setting](/screenshots/2%20day/13.png)
 
 ---
 
@@ -200,14 +200,14 @@ Post-Launch Template Overview
 ### Сценарий Без Активированной Опции
 Если не активировать агент, как видно на скрине ниже — ни одно пост-действие не будет выполнено:
 
-![Post-launch disabled warning](../screenshots/2%20day/14.png)
+![Post-launch disabled warning](/screenshots/2%20day/14.png)
 
 ---
 
 ## Подтверждение Сохранения
 После сохранения настроек:
 
-![Saved post-launch](../screenshots/2%20day/15.png)
+![Saved post-launch](/screenshots/2%20day/15.png)
 
 ---
 
@@ -220,8 +220,8 @@ Post-Launch Template Overview
 - При необходимости можно изменить Deployment или включить шифрование.
 - Убедитесь, что опция **Migration tips** включена в разделе `User preferences`. Это поможет во время миграции получать подсказки от AWS:
 
-![User preferences - tips off](../screenshots/2%20day/16.png)
-![User preferences - tips on](../screenshots/2%20day/17.png)
+![User preferences - tips off](/screenshots/2%20day/16.png)
+![User preferences - tips on](/screenshots/2%20day/17.png)
 
 ---
 
