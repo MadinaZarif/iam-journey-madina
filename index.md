@@ -8,6 +8,7 @@
 
 - ✅ - [Day 1: Создание IAM пользователя](day1-create-iam-user.md)
 - ✨ [Day 2 – Application Migration Service (Part 1)](day2-mgn-part1.md)
+- ✨ [Day 2 – Application Migration Service (Part 2)](mgn-part3-installation-requirements.md)
 
 _(будет дополнено по мере прохождения курса)_
 
