@@ -1,19 +1,40 @@
-# 🛡️ IAM Journey – Madina Zarif
+# 🧭 IAM & Cloud Journey by Madina
 
-Добро пожаловать в моё портфолио по AWS IAM.  
-Здесь я документирую свои шаги и опыт, полученные во время прохождения курса по Create an IAM user (AWS Application Migration Service) и IAM.
-
----
-
-## 📅 Мои шаги
-
-- [Day 1: Создание IAM пользователя](day1-create-iam-user.md)
+Моё путешествие по AWS и Identity and Access Management. Здесь я документирую каждый шаг своего обучения, включая команды, настройки, скриншоты и выводы.
 
 ---
 
-## 📸 Скриншоты
+## 📆 Learning Log
 
-Смотри папку `screenshots` для подтверждения практики.
+- ✅ - [Day 1: Создание IAM пользователя](day1-create-iam-user.md)
+- ✨ [Day 2 – Application Migration Service (Part 1)](day2-mgn-part1.md)
+
+_(будет дополнено по мере прохождения курса)_
+
+---
+
+## 🔖 Topics Covered
+
+- AWS IAM
+- AWS Application Migration Service (MGN)
+- VPC, Subnets, Internet Gateways
+- Route Tables, Replication Templates
+- Hands-on Labs and Configurations
+
+---
+
+## 📸 Screenshots
+
+Все скриншоты хранятся в папке [`/screenshots`](./screenshots)
+
+---
+
+## 🔍 Tags / SEO Keywords (для поиска)
+
+`#AWS` `#ApplicationMigrationService` `#AWSMGN` `#IAM` `#CloudComputing` `#DevOpsJourney` `#MadinaLearnsCloud`  
+`aws iam tutorial`, `how to migrate vm to aws`, `mgn replication template`, `aws cloud journey`, `cloud beginner`, `iam journey github`, `aws subnet replication`, `aws vpc walkthrough`, `mgn setup guide`
+
+---
 
 ---
 
