@@ -72,7 +72,7 @@ Next step: Wait for initial sync to complete
 
 Сервер успешно зарегистрирован, начата синхронизация
 
-![Step 1](screenshots/2%40day/1.png)  
-![Step 2](screenshots/2%40day/2.png)
-![Step 3](screenshots/2%40day/3.png)
-![Step 4](screenshots/2%40day/4.png)  
+![Step 1](screenshots/4%20day/1.png)  
+![Step 2](screenshots/4%20day/2.png)
+![Step 3](screenshots/4%20day/3.png)
+![Step 4](screenshots/4%20day/4.png)  
